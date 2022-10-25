@@ -29,3 +29,11 @@ TEMPLATES = [
     },
 ]
 ```
+# Step 4
+
+- [x] Introduction-to-github
+- [ ] Communicate-using-markdown
+- [ ] Hello-github-actions
+- [ ] Github-pages
+- [ ] Continuous-integration
+- [ ] Review-pull-requests 
